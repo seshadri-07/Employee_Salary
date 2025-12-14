@@ -1,4 +1,6 @@
 🧠 Employee Salary Prediction using Machine Learning
+
+
 📌 Project Overview
 
 This project focuses on predicting employee salary categories using Machine Learning techniques. The model is built using the Adult Census Income Dataset, which contains demographic and employment-related attributes. The goal is to understand how various factors influence salary levels and gain hands-on experience with real-world data analysis and machine learning workflows.
