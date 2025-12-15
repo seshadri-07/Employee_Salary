@@ -92,21 +92,6 @@ Learned how demographic and work-related attributes affect salary predictions
 
 Improved analytical thinking and problem-solving skills
 
-📁 Project Structure
-Employee-Salary-Prediction/
-│
-├── Employee_Salary_Prediction.ipynb
-├── README.md
-
-🚀 Future Improvements
-
-Apply advanced machine learning algorithms
-
-Perform feature engineering
-
-Evaluate model performance using metrics like accuracy and precision
-
-Visualize insights using data visualization libraries
 
 👨‍💻 Author
 
